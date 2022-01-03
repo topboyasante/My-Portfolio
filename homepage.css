@@ -1,0 +1,14 @@
+body{
+    background-color: #3B3561;
+}
+.nav-item:hover{
+
+    animation-name: enlarge-nav;
+    animation-duration: 2s;
+}
+
+@keyframes enlarge-nav {
+    100%{
+        transform: scale(1.05);
+    }
+}
