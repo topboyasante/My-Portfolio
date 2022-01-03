@@ -1,3 +1,3 @@
 # My-Portfolio
 
-Codes to my Portfolio Website. Designes with HTML, CSS and Bootstrap.
+Codes to my Portfolio Website. Designed with HTML, CSS and Bootstrap.
