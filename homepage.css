@@ -1,6 +1,7 @@
 body{
-    background-color: #3B3561;
+    background-color: #080F0F;
 }
+
 .nav-item:hover{
 
     animation-name: enlarge-nav;
