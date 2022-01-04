@@ -12,6 +12,10 @@ body{
     animation-duration: 2s;
 }
 
+.hero {
+    height: 100vh;
+}
+
 @keyframes enlarge-nav {
     100%{
         transform: scale(1.05);
